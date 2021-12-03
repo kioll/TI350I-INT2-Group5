@@ -4,6 +4,8 @@ public class sonarQube03 {
         boolean success = true;
         while(success){
             accumulator = accumulator + start;
+            
+           end while;
         }
         return accumulator;
     }
